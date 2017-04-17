@@ -51,6 +51,9 @@ This solution shows how to pre-process data (cleaning and feature engineering), 
  </span>
  Finally, a Power BI report is used to visualize the deployed results.
 
+<img class="hdi" src="images/hdi.jpg">
+<img class="cig" src="images/cig.jpg">
+<img class="onp" src="images/onp.jpg">
 
 
  
