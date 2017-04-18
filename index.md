@@ -21,7 +21,7 @@ This solution predicts the probability of a lead conversion from each channel, a
       <input type="radio" name="optradio" class="rb" value="onp">{{ site.onp_text }}
     </label>
    <label class="radio">
-      <input type="radio" name="optradio" class="rb" value="hdi">{{ site.hdi_text }}, deployed from <a href="https://aka.ms/campaignoptimization-hdi">Cortana Intelligence Gallery</a>
+      <input type="radio" name="optradio" class="rb" value="hdi">{{ site.hdi_text }}, deployed from <a href="https://aka.ms/campaign-hdi">Cortana Intelligence Gallery</a>
     </label> 
 </form>
 </div>
@@ -35,7 +35,7 @@ For customers who prefer an on-premise solution, the implementation with SQL Ser
 </div>
 
 <div class="hdi">
-This solution shows how to pre-process data (cleaning and feature engineering), train prediction models, and perform scoring on the  HDInsight Spark cluster with Microsoft R Server deployed from the <a href="https://aka.ms/campaignoptimization-hdi">Cortana Intelligence Gallery</a>.
+This solution shows how to pre-process data (cleaning and feature engineering), train prediction models, and perform scoring on the  HDInsight Spark cluster with Microsoft R Server deployed from the <a href="https://aka.ms/campaign-hdi">Cortana Intelligence Gallery</a>.
 <p></p>
 <strong>HDInsight Spark cluster billing starts once a cluster is created and stops when the cluster is deleted. See <a href="hdinsight.html"> these instructions for important information</a> about deleting a cluster and re-using your files on a new cluster.</strong>
 
